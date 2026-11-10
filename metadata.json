@@ -1,0 +1,8 @@
+{
+  "uuid": "clip-history@local",
+  "name": "Clip History",
+  "description": "Recent clipboard entries in the top bar",
+  "shell-version": ["46"],
+  "version": 1,
+  "settings-schema": "org.gnome.shell.extensions.clip-history"
+}

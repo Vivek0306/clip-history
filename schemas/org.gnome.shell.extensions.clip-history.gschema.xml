@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.clip-history"
+          path="/org/gnome/shell/extensions/clip-history/">
+    <key name="toggle-menu" type="as">
+      <default><![CDATA[['<Super>v']]]></default>
+      <summary>Shortcut to open clipboard history</summary>
+    </key>
+  </schema>
+</schemalist>
